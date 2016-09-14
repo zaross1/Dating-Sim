@@ -1,9 +1,7 @@
 #####################################
 #   Jason Mortensen
 #
-#   This program runs in CodeSkulptor. It's an erotic text-based, dating sim.
-#    
-#   Here is the link:  http://www.codeskulptor.org/#user40_EnjiGo3OkbALutU.py
+#   This program runs in CodeSkulptor. 
 # 
 #
 #####################################
